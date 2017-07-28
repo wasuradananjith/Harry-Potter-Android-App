@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Harry Potter</string>
+
+    <string-array name="movies">
+        <item>Harry Potter and the Sorcerer\'s Stone</item>
+        <item>Harry Potter and the Chamber of Secrets</item>
+        <item>Harry Potter and the Prisoner of Azkaban</item>
+        <item>Harry Potter and the Goblet of Fire</item>
+        <item>Harry Potter and the Order of the Phoenix</item>
+        <item>Harry Potter and the Half Blood Prince</item>
+        <item>Harry Potter and the Deathly Hallows Part 1</item>
+        <item>Harry Potter and the Deathly Hallows Part 2</item>
+    </string-array>
+
+    <array name="movie_pics">
+        <item>@drawable/hp1</item>
+        <item>@drawable/hp2</item>
+        <item>@drawable/hp3</item>
+        <item>@drawable/hp4</item>
+        <item>@drawable/hp5</item>
+        <item>@drawable/hp6</item>
+        <item>@drawable/hp7</item>
+        <item>@drawable/hp8</item>
+    </array>
+
+    <string-array name="year">
+        <item>2001</item>
+        <item>2002</item>
+        <item>2004</item>
+        <item>2005</item>
+        <item>2007</item>
+        <item>2009</item>
+        <item>2010</item>
+        <item>2011</item>
+    </string-array>
+    <string name="title_activity_movie">Movies</string>
+
+</resources>
